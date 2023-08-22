@@ -1,1 +1,1 @@
-# Stephane-genicot.github.io
+# stephane-genicot.github.io
