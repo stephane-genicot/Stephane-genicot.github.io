@@ -47,9 +47,9 @@ Write some thoughts here about what you have learnt from this Kata. You don’t 
 
 ### Useful link
 
-The complete description can be found here : http://codingdojo.org/kata/Bowling/
+The complete description can be found here : [Coding Dojo](http://codingdojo.org/kata/Bowling/)
 
-Clean Code - TDD : https://cleancoders.com/episode/clean-code-episode-6-p1
+Clean Code - TDD : [click here](https://cleancoders.com/episode/clean-code-episode-6-p1)
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
 
