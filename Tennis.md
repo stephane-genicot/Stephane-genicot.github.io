@@ -24,7 +24,7 @@ The scoring system is rather simple:
   
     c. If the player without advantage wins they are back at deuce.
 
-===== Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/Tennis#Scoring ):
+===== Alternate description of the rules per [Wikipedia](http://en.wikipedia.org/wiki/Tennis#Scoring):
 
 1. A game is won by the first player to have won at least four points in total and at least two points more than the opponent.
 
@@ -36,8 +36,8 @@ The scoring system is rather simple:
 
 ## Useful link
 
-The complete description can be found here : http://codingdojo.org/kata/Tennis/
+The complete description can be found here : [Coding Dojo](http://codingdojo.org/kata/Tennis/)
 
-Clean Code - TDD : https://cleancoders.com/episode/clean-code-episode-6-p1
+Clean Code - TDD : [click here](https://cleancoders.com/episode/clean-code-episode-6-p1)
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
