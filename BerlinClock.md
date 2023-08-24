@@ -17,8 +17,8 @@ The next two rows represent hours. The upper row represents 5 hour blocks and is
 The final two rows represent the minutes. The upper row represents 5 minute blocks, and is made up of 11 lamps- every third lamp is red, the rest are yellow. The bottom row represents 1 minute blocks, and is made up of 4 yellow lamps.
 
 ## Useful links
-The complete description can be found here : http://agilekatas.co.uk/katas/BerlinClock-Kata
+The complete description can be found here : [Agile Kata](http://agilekatas.co.uk/katas/BerlinClock-Kata)
 
-Clean Code - TDD : https://cleancoders.com/episode/clean-code-episode-6-p1
+Clean Code - TDD : [click here](https://cleancoders.com/episode/clean-code-episode-6-p1)
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
