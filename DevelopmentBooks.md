@@ -49,6 +49,6 @@ Answer :
   
 ## Useful link
 
-Clean Code - TDD : https://cleancoders.com/episode/clean-code-episode-6-p1
+Clean Code - TDD : [click here](https://cleancoders.com/episode/clean-code-episode-6-p1)
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
