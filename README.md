@@ -1,5 +1,6 @@
 # Katas
 List of katas used for evaluation :
+* [FizzBuzz](FizzBuzz.md)
 * [Leap Years](LeapYears.md)
 * [Tennis Game](Tennis.md)
 * [Tic Tac Toe](TicTacToe.md)
